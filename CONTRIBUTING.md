@@ -4,7 +4,7 @@ Inspired by
 [M. McGrana's Services engineering reading list](https://github.com/mmcgrana/services-engineering)
 This reading list tries to aggregate a curated list of performance
 engineering articles of high quality content. One goal of this reading
-list is to minimize duplication of concepts and ideas in
+list is to make a distinction between theory/methodology and systems/tools/frameworks in
 performance engineering.
 
 Suggestions are welcome to this reading list.
