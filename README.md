@@ -44,7 +44,7 @@ Inspired by
 <a name="tools">
 ### Systems, Platforms, Frameworks and Tools
 #### Papers
-[Google-Wide Profiling](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36575.pdf)
+* [Google-Wide Profiling](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36575.pdf)
 
 #### Presentations
 * [JVM Mechanics](http://www.infoq.com/presentations/JVM-Mechanics) (G. Tene)
