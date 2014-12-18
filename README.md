@@ -6,7 +6,7 @@ a focus on distrubted web services and applications.
 [Suggestions](CONTRIBUTING.md) are welcome.
 
 Inspired by
-[MMcgrana services engineering reading list](https://github.com/mmcgrana/services-engineering).
+[M. McGranaghan services engineering reading list](https://github.com/mmcgrana/services-engineering).
 
 ### Theory and methodology
 #### Papers
