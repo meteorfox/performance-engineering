@@ -1,7 +1,7 @@
 ## Performance Engineering Reading List
 
 A reading/viewing list about the theory and practice of performance engineering with
-a focus on distrubted web services and applications.
+a focus on distribubted web services and applications.
 
 [Suggestions](CONTRIBUTING.md) are welcome.
 
@@ -19,6 +19,7 @@ Inspired by
 * [Rigorous Benchmarking in Reasonable Time](https://kar.kent.ac.uk/33611/7/paper.pdf)
 * [CPI2: CPU performance isolation for shared compute clusters](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/40737.pdf)
 * [The Tail at Scale](http://cacm.acm.org/magazines/2013/2/160173-the-tail-at-scale/abstract) (J. Dean)
+* [Open vs Closed Systems: A Cautionary Tale](http://users.cms.caltech.edu/~adamw/papers/openvsclosed.pdf)
 
 #### Presentations
 * [Understanding Latency](https://www.youtube.com/watch?v=9MKY4KypBzg) (G. Tene)
