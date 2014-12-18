@@ -9,7 +9,6 @@ performance engineering.
 
 Suggestions are welcome to this reading list.
 
-<blockquote>
 In the [issues](https://github.com/meteorfox/performance-engineering/issues)
 for this repository we track specific suggestions for additions and
 topics that we'd like to cover but don't have good resources for yet.
@@ -21,4 +20,4 @@ issue for each suggested resource.
 Note that the list only includes material that's been read
 personally by the editor, so some suggestions may have a long
 turnaround time, especially books and conferences.
-</blockquote>
+
