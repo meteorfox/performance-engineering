@@ -8,6 +8,12 @@ a focus on distrubted web services and applications.
 Inspired by
 [M. McGranaghan services engineering reading list](https://github.com/mmcgrana/services-engineering).
 
+#### Table of Contents
+* [Theory and methodology](#theory)
+* [Systems, Platforms, Frameworks and Tools](#tools)
+
+
+<a name="theory">
 ### Theory and methodology
 #### Papers
 * [Rigorous Benchmarking in Reasonable Time](https://kar.kent.ac.uk/33611/7/paper.pdf)
@@ -34,7 +40,8 @@ Inspired by
 #### Courses and Classwork
 * [MIT 6.172 - Performance Engineering of Software Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)
 
-
+---
+<a name="tools">
 ### Systems, Platforms, Frameworks and Tools
 #### Papers
 [Google-Wide Profiling](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36575.pdf)
