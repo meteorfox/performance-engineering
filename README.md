@@ -1,7 +1,7 @@
 ## Performance Engineering Reading List
 
 A reading/viewing list about the theory and practice of performance engineering with
-a focus on distribubted web services and applications.
+a focus on distributed web services and applications.
 
 [Suggestions](CONTRIBUTING.md) are welcome.
 
