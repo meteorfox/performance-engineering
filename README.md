@@ -31,6 +31,7 @@ Inspired by
 
 #### Posts
 * [How Not to Measure Computer System Performance](https://homes.cs.washington.edu/~bornholt/post/performance-evaluation.html)
+* [Bentley's Rules](http://www.new-npac.org/projects/cdroms/cewes-1999-06-vol1/nhse/hpccsurvey/orgs/sgi/bentley.html)
 * [Compilers Love Messing With Benchmarks](http://www.brendangregg.com/blog/2014-05-02/compilers-love-messing-with-benchmarks.html) (B. Gregg)
 * [The USE Method](http://www.brendangregg.com/usemethod.html)
 * [13 Benchmarking Sins](http://www.computerworld.com/article/2486830/computer-hardware/13-benchmarking-sins.html) (B. Gregg)
