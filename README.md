@@ -28,6 +28,7 @@ Inspired by
 * [Practicing at the Cutting Edge: Learning and Unlearning about Performance](http://www.infoq.com/presentations/java-performance) (M. Thompson)
 * [Benchmarking: You're Doing It Wrong](https://www.youtube.com/watch?v=XmImGiVuJno)
 * [The Tail at Scale: Achieving Rapid Response Times in Large Online Services](https://www.youtube.com/watch?v=C_PxVdQmfpk) (J. Dean)
+* [Scalability Lessons from eBay, Google, and Real-time Games](http://www.infoq.com/presentations/scalability-ebay-google-kixeye)
 
 #### Posts
 * [How Not to Measure Computer System Performance](https://homes.cs.washington.edu/~bornholt/post/performance-evaluation.html)
@@ -60,6 +61,7 @@ Inspired by
 * [ftrace: The hidden light switch](http://lwn.net/Articles/608497/) (B. Gregg)
 
 #### Books
+* [Java Performance](http://www.amazon.com/Java-Performance-Charlie-Hunt/dp/0137142528)
 
 #### Courses
 
