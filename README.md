@@ -13,8 +13,10 @@ Inspired by
 * [Systems, Platforms, Frameworks and Tools](#tools)
 
 
-<a name="theory">
+<a name="theory"></a>
+
 ### Theory and methodology
+
 #### Papers
 * [Rigorous Benchmarking in Reasonable Time](https://kar.kent.ac.uk/33611/7/paper.pdf)
 * [CPI2: CPU performance isolation for shared compute clusters](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/40737.pdf)
@@ -44,8 +46,10 @@ Inspired by
 * [MIT 6.172 - Performance Engineering of Software Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)
 
 ---
-<a name="tools">
+<a name="tools"></a>
+
 ### Systems, Platforms, Frameworks and Tools
+
 #### Papers
 * [Google-Wide Profiling](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36575.pdf)
 
