@@ -43,7 +43,7 @@ Inspired by
 * [Systems Performance: Enterprise and the Cloud](http://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098) (B. Gregg)
 
 #### Courses and Classwork
-* [MIT 6.172 - Performance Engineering of Software Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)
+* [MIT 6.172 - Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)
 
 ---
 <a name="tools"></a>
