@@ -18,7 +18,7 @@ Inspired by
 ### Theory and methodology
 
 #### Papers
-* [Rigorous Benchmarking in Reasonable Time](https://kar.kent.ac.uk/33611/7/paper.pdf)
+* [Rigorous Benchmarking in Reasonable Time](https://www.researchgate.net/publication/257193308_Rigorous_Benchmarking_in_Reasonable_Time/link/546df6ff0cf29806ec2e638e/download)
 * [CPI2: CPU performance isolation for shared compute clusters](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/40737.pdf)
 * [The Tail at Scale](http://cacm.acm.org/magazines/2013/2/160173-the-tail-at-scale/abstract) (J. Dean)
 * [Open vs Closed Systems: A Cautionary Tale](http://users.cms.caltech.edu/~adamw/papers/openvsclosed.pdf)
